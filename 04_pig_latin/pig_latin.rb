@@ -46,5 +46,3 @@ def translate string
     return arrayString.join(' ')
 
 end
-
-puts translate("The Quick Brown Fox")
